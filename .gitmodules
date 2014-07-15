@@ -1,0 +1,3 @@
+[submodule "lib/datejs"]
+	path = lib/datejs
+	url = git@github.com:abritinthebay/datejs.git
